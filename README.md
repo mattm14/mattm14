@@ -9,7 +9,7 @@ I am a Consultant in Data and Analytics specializing in predictive modelling and
 * 🌍  I'm based in Sydney
 * 🖥️  See my portfolio at [MyPortfolio](http://mattm14.github.io/)
 * ✉️  You can contact me at [mmay14@hotmail.com](mailto:mmay14@hotmail.com)
-* 🚀  I'm currently working on [More Modelling!]
+* 🚀  I'm currently working on more modelling!
 * 🧠  I'm learning Web Scraping*
 * 🤝  I'm open to collaborating on Projects
 
