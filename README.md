@@ -1,10 +1,10 @@
 Hi 👋 My name is Matt May
 =========================
 
-Data Analytics Consultant
+Consultant, Data Analytics
 -------------------------
 
-I am a Consultant in Data and Analytics specializing in predictive modelling and VBA automation.
+I am a Consultant in Data Analytics specializing in predictive modelling and VBA automation.
 
 * 🌍  I'm based in Sydney
 * 🖥️  See my portfolio at [MyPortfolio](http://mattm14.github.io/)
